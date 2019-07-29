@@ -1,0 +1,13 @@
+Scenario:  The user need password to p6s
+
+User story: As a user, I need b able to have password to P6S
+
+Description:  The user need reset the password t p6S
+
+
+Title: Reset password to P6S
+
+Basic flow:
+	1. The user called in request help to reset the password to P6S
+	2. I created a new password for the user
+	3. The agreed to case closure
